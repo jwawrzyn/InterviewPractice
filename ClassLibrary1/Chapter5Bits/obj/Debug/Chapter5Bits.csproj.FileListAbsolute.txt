@@ -1,0 +1,5 @@
+C:\Users\jwawrzynczak\Documents\Visual Studio 2013\Projects\ClassLibrary1\Chapter5Bits\bin\Debug\Chapter5Bits.dll
+C:\Users\jwawrzynczak\Documents\Visual Studio 2013\Projects\ClassLibrary1\Chapter5Bits\bin\Debug\Chapter5Bits.pdb
+C:\Users\jwawrzynczak\Documents\Visual Studio 2013\Projects\ClassLibrary1\Chapter5Bits\obj\Debug\Chapter5Bits.dll
+C:\Users\jwawrzynczak\Documents\Visual Studio 2013\Projects\ClassLibrary1\Chapter5Bits\obj\Debug\Chapter5Bits.pdb
+C:\Users\jwawrzynczak\Documents\Visual Studio 2013\Projects\ClassLibrary1\Chapter5Bits\obj\Debug\Chapter5Bits.csprojResolveAssemblyReference.cache
